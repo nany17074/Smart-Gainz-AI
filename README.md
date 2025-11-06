@@ -55,7 +55,8 @@ Future Improvements
 💬 Chat-based Coaching Experience
 
 
-🤝 Contributing Contributions are welcome! Feel free to fork the repo and submit a pull request.
+🤝 Contributing Contributions are welcome! 
+Feel free to fork the repo and submit a pull request.
 📬 Contact
 Have questions or feedback?
 📧 Nandini Yadav – email:nany17074@gmail.com
