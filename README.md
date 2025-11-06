@@ -28,7 +28,7 @@ Tailwind CSS: For sleek, responsive UI
 Running the Project Locally
 bash Copy Edit
 1. Clone the repo
-git clone https://github.com/aditijain8/SmartGAINZ_AI.git
+git clone https://github.com/nany17074/Smart-Gainz-AI
 
 2. Install dependencies
 npm install
