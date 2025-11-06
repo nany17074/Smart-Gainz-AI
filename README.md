@@ -40,11 +40,12 @@ npm run dev
 npx convex dev ⚠️ Ensure you have environment variables for Clerk, Convex, Vapi, and OpenAI properly set up
 
 Screenshots
-image
+<img width="1887" height="1079" alt="image" src="https://github.com/user-attachments/assets/aa4565ba-a425-47cc-a041-882d633138e0" />
 
-image
+<img width="1897" height="927" alt="image" src="https://github.com/user-attachments/assets/6c4f663c-523a-4654-bd63-295537cc7aaa" />
 
-image
+<img width="1886" height="806" alt="image" src="https://github.com/user-attachments/assets/e5dbf81e-7d02-4400-a692-174abb641a53" />
+
 
 Future Improvements
 📈 Health Progress Tracker
