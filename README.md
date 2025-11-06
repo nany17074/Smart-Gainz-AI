@@ -1,5 +1,6 @@
 # Smart-Gainz-AI
 Live Demo: https://smart-gainz-ai-y6hy.vercel.app/
+
 SmartGainz AI is your intelligent fitness trainer designed to help you smash your health goals with AI-powered precision. This web app generates personalized diet plans by interacting with users through natural voice prompts and smart AI responses. Whether you're bulking, cutting, or just staying healthy — SmartGainz has your back!
 
 🔥 Features
